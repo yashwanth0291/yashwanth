@@ -1,0 +1,11 @@
+i=input('enter the value 1 :')
+j=input('enter the value 2 :')
+a=i+j
+print("addition :",a)
+s=i-j
+print("substration :",s)
+m=i*j
+print("multiplication :",m)
+d=i/j
+print("division :",d)
+
