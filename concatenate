@@ -1,0 +1,6 @@
+from operator import concat
+f=input("enter the first name :")
+s=input("enter the second name :")
+full=concat(f,s)
+print("hello ", full,"welcome to python programming")
+
